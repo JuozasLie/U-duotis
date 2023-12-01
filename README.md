@@ -1,2 +1,2 @@
-# U-duotis
+# Uzduotis
 Užduotis dėl darbo pokalbio.
